@@ -1,9 +1,5 @@
 ### Hey there I'm HyunCheol Jang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
-
-  <img align="right" alt="GIF" src="https://ci4.googleusercontent.com/proxy/oAcEW-_D8R07HvOLgQPp0YFWAXUVFyDpORGD_e62upYIxE259ZfxKyN8IbTn4X6PPJSeBZELz-OfYJFYLy8dsCtu4wlbIAQNMk0EiGfX3FlT4ckl06l36EV5=s0-d-e1-ft" width="500" height="320" />
-
 **Languages and Tools:**  
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -31,16 +27,6 @@ Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer �
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Vue.js       8 hrs 32 mins   ██████████████▓░░░░░░░░░░   59.07 % 
-C++          3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
-Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JavaScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-```
-<!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
