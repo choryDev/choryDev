@@ -27,7 +27,7 @@
 
 Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://ci4.googleusercontent.com/proxy/oAcEW-_D8R07HvOLgQPp0YFWAXUVFyDpORGD_e62upYIxE259ZfxKyN8IbTn4X6PPJSeBZELz-OfYJFYLy8dsCtu4wlbIAQNMk0EiGfX3FlT4ckl06l36EV5=s0-d-e1-ft" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
