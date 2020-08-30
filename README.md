@@ -1,5 +1,5 @@
 <h2> Hey there I'm HyunCheol Jang </h2>
-<img align='right' src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2720ED4D53FA15C630" width="230">
+<img align='right' src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="300">
 
 <h3>My Career</h3> 
 <p><em>Graduated from <a href="https://ulms.ulsan.ac.kr/">University of Ulsan </a><img src="https://upload.wikimedia.org/wikipedia/en/6/6c/University_of_Ulsan_Seal.jpg" width="20"></br>
