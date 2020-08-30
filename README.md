@@ -1,7 +1,7 @@
 <h2> Hey there I'm HyunCheol Jang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <img align='right' src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="300">
 
-<h3>My Career</h3>
+## 👨‍💻 My Career
 <p><em>
 Discharged from the military <a href="https://namu.wiki/w/%EC%A0%9C28%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8">Invincible typhoon troops </a>
   <img src="https://w.namu.la/s/c2ec55bc79635b39d81ac82c55fac8f3a91840fbb04915cdf33a95b8eeb7087e01919587a3bd501ac1f99fa21e0738a9a03fa2fdd90c8f4ae30185cd5d996f36412d1a77bb09e7c0a54a5b0a3991c5ec1570de6667f0bb28041ddf2bf543666b" width="20">(2015.06~2017.03)</br>
