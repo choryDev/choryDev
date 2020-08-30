@@ -28,7 +28,7 @@ Developer at <a href="">Itez</a> (2020.07~)</br></br>
 </br>
 ![](https://img.shields.io/badge/Code-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
 </br>
 ![](https://img.shields.io/badge/Code-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
