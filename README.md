@@ -1,4 +1,4 @@
-<h2> Hey there I'm HyunCheol Jang <img src="ttps://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2720ED4D53FA15C630" width="50"></h2>
+<h2> Hey there I'm HyunCheol Jang <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2720ED4D53FA15C630" width="50"></h2>
 <img align='right' src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2720ED4D53FA15C630" width="230">
 
 <h3>My Career</h3> 
@@ -29,7 +29,7 @@ Discharged from the military <a href="https://namu.wiki/w/%EC%A0%9C28%EB%B3%B4%E
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-#38B2AC?style=flat-square&logo=TailwindCss.js&logoColor=white" />
+  <img alt="Tailwind Css" src="https://img.shields.io/badge/-Tailwind Css-#38B2AC?style=flat-square&logo=Tailwind Css.js&logoColor=white" />
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
