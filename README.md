@@ -1,7 +1,7 @@
 <h2> Hey there I'm HyunCheol Jang </h2>
 <img align='right' src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="300">
 
-<h3>My Career</h3> 
+<h3>My Career</h3>
 <p><em>
 Discharged from the military <a href="https://namu.wiki/w/%EC%A0%9C28%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8">Invincible typhoon troops </a>
   <img src="https://w.namu.la/s/c2ec55bc79635b39d81ac82c55fac8f3a91840fbb04915cdf33a95b8eeb7087e01919587a3bd501ac1f99fa21e0738a9a03fa2fdd90c8f4ae30185cd5d996f36412d1a77bb09e7c0a54a5b0a3991c5ec1570de6667f0bb28041ddf2bf543666b" width="20"></br>
@@ -17,7 +17,6 @@ developer at <a href="">Itez</br>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
