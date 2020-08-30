@@ -24,7 +24,6 @@ Developer at <a href="">Itez</br>
 ![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 </br>
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
