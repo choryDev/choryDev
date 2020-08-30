@@ -36,6 +36,4 @@ Discharged from the military <a href="https://namu.wiki/w/%EC%A0%9C28%EB%B3%B4%E
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-[choryDev's github stats](https://github-readme-stats.vercel.app/api?username=choryDev&show_icons=true)
+[![choryDev's github stats](https://github-readme-stats.vercel.app/api?username=choryDev)](https://github.com/choryDev/github-readme-stats)
