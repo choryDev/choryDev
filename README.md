@@ -1,5 +1,5 @@
 <h2> Hey there I'm HyunCheol Jang <img src="https://cdn.ppomppu.co.kr/zboard/data3/2019/0626/20190626150600_ysxcplls.gif" width="50"></h2>
-<img align='right' src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="230">
+<img align='right' src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2720ED4D53FA15C630" width="230">
 
 <h3>My Career</h3> 
 <p><em>Graduated from <a href="https://ulms.ulsan.ac.kr/">University of Ulsan </a><img src="https://upload.wikimedia.org/wikipedia/en/6/6c/University_of_Ulsan_Seal.jpg" width="20"></br>
@@ -36,4 +36,5 @@ Discharged from the military <a href="https://namu.wiki/w/%EC%A0%9C28%EB%B3%B4%E
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</br>
 [![choryDev's github stats](https://github-readme-stats.vercel.app/api?username=choryDev)](https://github.com/choryDev/github-readme-stats)
