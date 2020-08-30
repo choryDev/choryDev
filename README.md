@@ -41,4 +41,3 @@ Developer at <a href="">Itez</a> (2020.07~)</br></br>
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-[![choryDev's github stats](https://github-readme-stats.vercel.app/api?username=choryDev)](https://github.com/choryDev/github-readme-stats)
