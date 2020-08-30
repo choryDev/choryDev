@@ -16,7 +16,7 @@ Developer at <a href="">Itez</a> (2020.07~)</br></br>
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 </br>
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
-![](https://img.shields.io/badge/VisualStudioinformational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 </br>
