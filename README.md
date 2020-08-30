@@ -1,4 +1,4 @@
-<h2> Hey there I'm HyunCheol Jang </h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2> Hey there I'm HyunCheol Jang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <img align='right' src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="300">
 
 <h3>My Career</h3>
