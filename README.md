@@ -7,7 +7,7 @@ Discharged from the military <a href="https://namu.wiki/w/%EC%A0%9C28%EB%B3%B4%E
   <img src="https://w.namu.la/s/c2ec55bc79635b39d81ac82c55fac8f3a91840fbb04915cdf33a95b8eeb7087e01919587a3bd501ac1f99fa21e0738a9a03fa2fdd90c8f4ae30185cd5d996f36412d1a77bb09e7c0a54a5b0a3991c5ec1570de6667f0bb28041ddf2bf543666b" width="20">(2015.06~2017.03)</br></br>
 Frontend developer at <a href="">EnLight </a>(2018.12~2019.08)</br></br>
 Graduated from <a href="https://ulms.ulsan.ac.kr/">University of Ulsan </a><img src="https://upload.wikimedia.org/wikipedia/en/6/6c/University_of_Ulsan_Seal.jpg" width="20">(2019.3~2021.02)</br></br>
-Developer at <a href="">Itez</a> (2020.07~)</br></br>
+Developer at <a href="">Itez</a> (2020.07~2021.01)</br></br>
 </em></p>
 
 ## 🔧 Technologies & Tools
